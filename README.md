@@ -1,8 +1,12 @@
 # 💻 CÁLCULO NUMÉRICO
 
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-pink?style=for-the-badge&logo=Python&logoColor=gray)
 ![Status](https://img.shields.io/badge/Status-Em_Andamento-pink?style=for-the-badge)
 ![Disciplina](https://img.shields.io/badge/Disciplina-4º%20Período-pink?style=for-the-badge)
+
+</div>
 
 > [!NOTE] 
 > Este repostitório é dedicado para os estudos da disciplina Cálculo Númerico

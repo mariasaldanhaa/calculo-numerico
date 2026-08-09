@@ -13,12 +13,16 @@
 |-- | -------|-------|
 | 1| Introdução a Python| ⏳Em andamento
 
+*Demais tópicos serão adicionados conforme avanço na disciplina.*
+
 # 🛠️ Tecnologias
 
 - Python
 
 # 📁 Como clonar
 
-- Abra o VSCODE
-- Pressione `Ctrl + Shift +'` ou vai em `View + Terminal)`
-- Digitar `git clone https://github.com/mariasaldanhaa/calculo-numerico.git`
+- Abra o VSCode
+- Pressione `Ctrl + Shift +'` ou vai em `View + Terminal` para abrir o terminal
+- Digite:
+
+`git clone https://github.com/mariasaldanhaa/calculo-numerico.git`

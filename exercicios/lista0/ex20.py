@@ -13,7 +13,7 @@ def mmc(num1, num2):
     return (num1 * num2) // mdc(num1, num2)
 
 def mdc_lista(lista):
-    resultado = list[0]
+    resultado = lista[0]
 
     for num in lista[1:]:
         resultado = mdc(resultado, num)
@@ -31,5 +31,5 @@ lista = input("Digite uma lista de números separando por espaços: ")
 lista = [int(num) for num in lista.split()]
 
 print('Lista: ', lista)
-print('MDC: ', mdc_lista)
-print('MMC: ', mmc_lista)
+print('MDC: ', mdc_lista(lista))
+print('MMC: ', mmc_lista(lista))

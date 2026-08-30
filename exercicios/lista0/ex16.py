@@ -5,13 +5,14 @@ lista = [int(num) for num in lista.split()]
 
 lista_sr = []
 
-for num in range(len(lista)):
+for num in lista:
     existe = False
+
     for num_r in lista_sr:
         if num == num_r:
             existe = True
             break
-        if not existe:
-            lista_sr.append(num)
+    if not existe:
+        lista_sr.append(num)
 
 print('Lista sem repetições: ', lista_sr)

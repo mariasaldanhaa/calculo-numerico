@@ -18,6 +18,6 @@ def input_float(mensagem):
 
 print('Teste das funções: ')
 num_int = input_int('Digite um número inteiro: ')
-num_float = input_float('Digite um número inteiro: ')
+num_float = input_float('Digite um número real: ')
 print('Número inteiro digitado: ', num_int)
 print('Número real digitado: ', num_float)

@@ -1,5 +1,4 @@
 # corrigido em sala
-
 import math
 
 def impar(numero):
@@ -9,4 +8,4 @@ def impar(numero):
         return False
 
 def area_circulo(raio):
-    return math.pi * raio ** 2
+    return math.pi * (raio ** 2)

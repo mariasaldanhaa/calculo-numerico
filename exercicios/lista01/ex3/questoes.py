@@ -17,3 +17,18 @@ print("\n")
 # letra d
 erro(5.87135, 5.87049)
 print("\n")
+
+# Erro absoluto de 1.00001 e 1: 0.00001000
+# Erro relativo de 1.00001 e 1: 0.00001000
+
+
+# Erro absoluto de 100001 e 100000: 1.00000000
+# Erro relativo de 100001 e 100000: 0.00001000
+
+
+# Erro absoluto de 32.65483 e 34.1645: 1.50967000
+# Erro relativo de 32.65483 e 34.1645: 0.04623114
+
+
+# Erro absoluto de 5.87135 e 5.87049: 0.00086000
+# Erro relativo de 5.87135 e 5.87049: 0.00014647

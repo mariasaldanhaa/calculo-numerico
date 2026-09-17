@@ -58,5 +58,5 @@ print(f"{n} em hexadecimal: {converterBase(n, 16)}")
 
 # resultado
 # 1010010.011 em quaternário: 1102.12
-# 1010010.011 em octal: 242.30
+# 1010010.011 em octal: 242.30 (corrigir)
 # 1010010.011 em hexadecimal: 52.6

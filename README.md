@@ -9,7 +9,7 @@
 </div>
 
 > [!NOTE] 
-> Este repostitório é dedicado para os estudos da disciplina Cálculo Númerico
+> Este repostitório é dedicado para os estudos da disciplina Cálculo Numérico
 
 # 📚 Conteúdo Programático
 
